@@ -6,7 +6,6 @@ venv
 playground.py
 .DS_Store
 *.json
-lambda_logging
 
 
 
