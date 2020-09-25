@@ -1,0 +1,3 @@
+[submodule "build_sam_template"]
+	path = build_sam_template
+	url = git@github.com:RodriguesJD/build_sam_template.git
